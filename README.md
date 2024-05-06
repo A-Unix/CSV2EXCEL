@@ -2,7 +2,7 @@
  A bash script to copy data from a csv file and paste in excel sheet.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python/Bash-yellow" alt="Language" />
+  <img src="https://img.shields.io/badge/Language-Bash-yellow" alt="Language" />
 </p>
 
 ## Created by Atul
